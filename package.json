@@ -1,0 +1,25 @@
+{
+  "name": "aws-clouds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmanager2009/aws-clouds.git"
+  },
+  "author": "Svitlana Berezhna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webmanager2009/aws-clouds/issues"
+  },
+  "homepage": "https://github.com/webmanager2009/aws-clouds#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "random": "^3.0.6",
+    "simple-git": "^3.9.0"
+  }
+}
